@@ -1,0 +1,101 @@
+html {
+  background-color: #c9b5ab;
+  line-height: 1.5;
+  font-weight: normal;
+}
+
+h1 {
+  font-size: 1.5rem;
+  color: #3f1622;
+  font-family: "PT Sans", sans-serif;
+  font-weight: bold;
+}
+
+nav a {
+  text-decoration: none;
+}
+
+nav ol {
+  list-style: none;
+}
+
+figcaption {
+  font-style: italic;
+}
+
+a {
+  color: #8f2440;
+  list-style: none;
+  font-family: "PT Sans", sans-serif;
+  font-weight: bold;
+  text-decoration: none;
+  font-size: 1.125rem;
+}
+
+a:hover {
+  color: #3f1622;
+  text-decoration: none;
+}
+
+h2 {
+  font-size: 1.5rem;
+  color: #3f1622;
+  font-family: "PT Sans", sans-serif;
+  font-weight: bold;
+}
+
+p {
+  font-size: 1rem;
+}
+
+header {
+  line-height: 1.5;
+}
+
+img {
+  width: 100%;
+}
+
+blockquote {
+  font-family: "PT Serif", serif;
+  font-style: italic;
+  font-size: 1.5rem;
+  line-height: 1.5;
+}
+
+footer a {
+  color: #8f2440;
+}
+
+footer a:hover {
+  color: #3f1622;
+}
+
+h2 + p {
+  font-style: italic;
+}
+
+.carbs, .fat, .protien, .energy {
+  font-weight: bold;
+}
+
+figure p {
+  font-style: italic;
+}
+
+aside {
+  font-size: .8rem;
+  list-style: circle;
+}
+
+footer {
+  font-size: .8rem;
+}
+
+.germination {
+  font-weight: bold;
+}
+
+ul {
+  list-style-type: lower-greek;
+}
